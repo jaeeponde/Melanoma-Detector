@@ -6,7 +6,7 @@ Training dataset : https://www.kaggle.com/datasets/fanconic/skin-cancer-malignan
 
 Works with an accuracy of **82.0%**
 
-Libraries used : pytorch, numpy, scikit learn
+Libraries used : tensorflow, numpy, scikit learn
 
 Uses 3 neural networks and 2 linear network
 
